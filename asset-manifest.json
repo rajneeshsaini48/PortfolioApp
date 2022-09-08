@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolioapp/static/css/main.d2d5fa0c.css",
+    "main.js": "/Portfolioapp/static/js/main.bf39b0ac.js",
+    "static/media/hoc.png": "/Portfolioapp/static/media/hoc.a0eac3132bec8c2ec411.png",
+    "static/media/Rajneesh Kumar.pdf": "/Portfolioapp/static/media/Rajneesh Kumar.533f06e354d8f25f6290.pdf",
+    "static/media/ecommerce.png": "/Portfolioapp/static/media/ecommerce.e70d5e8169098b5824a5.png",
+    "static/media/boy.png": "/Portfolioapp/static/media/boy.4edbc6c935bc822cb8a8.png",
+    "static/media/musicapp.png": "/Portfolioapp/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/sidebar.png": "/Portfolioapp/static/media/sidebar.82ea440ea4a7197ef478.png",
+    "static/media/humble.png": "/Portfolioapp/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Portfolioapp/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/glasses.png": "/Portfolioapp/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/wave.png": "/Portfolioapp/static/media/wave.3860ba5f89932574a6f1.png",
+    "index.html": "/Portfolioapp/index.html",
+    "main.d2d5fa0c.css.map": "/Portfolioapp/static/css/main.d2d5fa0c.css.map",
+    "main.bf39b0ac.js.map": "/Portfolioapp/static/js/main.bf39b0ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2d5fa0c.css",
+    "static/js/main.bf39b0ac.js"
+  ]
+}
